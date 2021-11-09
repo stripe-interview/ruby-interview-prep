@@ -3,6 +3,7 @@ GEM
   specs:
     diff-lcs (1.4.4)
     rake (12.3.3)
+    redcarpet (2.1.1)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
@@ -22,6 +23,7 @@ PLATFORMS
 
 DEPENDENCIES
   rake (~> 12.0)
+  redcarpet (= 2.1.1)
   rspec (~> 3.0)
   rspec-mocks (~> 3.10)
 

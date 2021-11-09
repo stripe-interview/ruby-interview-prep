@@ -11,7 +11,7 @@ If you can run these commands, your development environment is probably ready fo
 
 ```
 ruby -v
-git clone git@github.com:stripe-interview/ruby-interview-prep
+git clone git@github.com:stripe-interview/ruby-interview-prep.git
 cd ruby-interview-prep
 bundle install
 bundle exec rake spec
