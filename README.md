@@ -1,8 +1,9 @@
 # Motivation
 
 At Stripe, our interview process has some interviews where you write code, typically on your computer.
-Running into build / environment issues during the interview is annoying and stressful.
-This repo is designed to let you test out your computer's Ruby environment and smoke out any of these
+If you're interviewing in Ruby, your computer will need to be set up to install and run Ruby code.
+We don't want you to run into build / environment issues during the interview - it's annoying and stressful.
+This repository is designed to let you test out your computer's Ruby environment and smoke out any of these
 issues beforehand, so that you have a better interviewing experience.
 
 # Setup
